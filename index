@@ -92,7 +92,7 @@
     };
     //YOUR TURN: add your Mapbox token
     
-    mapboxgl.accessToken = 'pk.eyJ1IjoiZW1yb2c2MTQiLCJhIjoiY2t2cm12cDRvN3M1MTJxbXNpY2VvcnF4aSJ9.Pi0SZ3foeawXoCrFRlik7Q'; //Mapbox token 
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZW1yb2c2MTQiLCJhIjoiY2t2c21tYXNtMGVndTJ2cWlhYmZ3MHFvdCJ9._CPtkCoLjsAtG0G2H_Zc9A'; //Mapbox token 
     var map = new mapboxgl.Map({
       container: 'map', // container id
       style: 'mapbox://styles/mapbox/light-v10', // YOUR TURN: choose a style: https://docs.mapbox.com/api/maps/#styles
